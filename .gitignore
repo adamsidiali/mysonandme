@@ -1,2 +1,6 @@
 .meteor/local
 .meteor/meteorite
+
+mup.json
+settings.json
+mobile-config.js
