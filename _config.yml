@@ -1,0 +1,9 @@
+# Site settings
+title: My Son and Me
+email: rubayahali@gmail.com
+description: Something new
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://mysonand.me" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
